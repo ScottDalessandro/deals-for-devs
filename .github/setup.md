@@ -81,7 +81,7 @@ In this project, we'll be connecting to our db in two different ways: using Pris
 You'll need to generate the Xata configuration and typings in your project. To do this, you'll use the Xata CLI. This should have been installed during the `npm install`. If you have issues, you can manually install like so:
 
 ```bash
-npm install @xata.io/cli
+npm install @xata.io/cli -g
 ```
 
 Log in to your Xata account by running the follwing command. This will pop open a new browser window to handle authentication.
